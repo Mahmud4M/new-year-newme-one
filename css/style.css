@@ -226,10 +226,45 @@ footer {
 
 .foot-coloum-one ul {
     display: flex;
+    margin-top: 20px;
 }
 
 .foot-coloum-one ul li {
     margin-right: 20px;
+}
+
+.face-book a i {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.twitter a i {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.you-tube a i {
+    color: red;
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: #fff;
 }
 
 .foot-coloum-two {
